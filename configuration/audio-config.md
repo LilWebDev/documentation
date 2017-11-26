@@ -16,7 +16,7 @@ The following command, entered in the command line, will switch the audio output
 amixer cset numid=3 2
 ```
 
-Here the output is being set to `2`, which is HDMI. Setting the output to `1` switches to analogue (headphone jack). The default setting is `0` which is automatic.
+Here the output is being set to `2`, which is HDMI. Setting the output to `1` switches to analogue (headphone jack). The default setting is `0` which is automatic. THIS WONT WORK IN ALL OSSES
 
 ### raspi-config
 
